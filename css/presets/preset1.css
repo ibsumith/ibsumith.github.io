@@ -34,7 +34,11 @@ a:hover, a:focus {
 .left-control:hover, 
 .right-control:hover, 
 .folio-overview a:hover {
-  background-color:#028fcc;
+  background-color:#fff;
+}
+
+.navbar-brand img {
+  width: 25%;
 }
 
 .twitter-left-control:hover, 
